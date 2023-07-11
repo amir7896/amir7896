@@ -22,7 +22,7 @@
 <a href="https://github.com/amir7896/so-stats">
   <img
     height="200"
-    src="https://so-stats-kurt-liao.vercel.app/api?user=15367654"
+    src="[https://so-stats-kurt-liao.vercel.app/api?user=15367654](https://so-stats-kurt-liao.vercel.app/api?user=15367654)"
   />
 </a>
 
