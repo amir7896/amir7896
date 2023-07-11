@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amir Shahzad</h1>
 <h3 align="center">I’m a Fullstack javascript Software Engineer with a great passion for building good products.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir7896" alt="amir7896" /></a> </p>
-
-- 🔭 I’m currently working on **New**
+- 🔭 I’m currently working on **Something New**
 
 - 🌱 I’m currently learning **Flutter,React Native**
 
@@ -25,4 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir7896&show_icons=true&locale=en" alt="amir7896" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir7896&" alt="amir7896" /></p>
+
 
