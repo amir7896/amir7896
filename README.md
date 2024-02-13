@@ -20,7 +20,7 @@
 <hr />
 <h3 align="left">Stackoverflow Stats:</h3>
 <a href="https://stackoverflow.com/users/15367654/amir-shahzad">
-  <img src="https://i.stack.imgur.com/FGP2U.jpg?s=256&g=1" alt="user:15367654's SO profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/15367654?theme=default&website=true" alt="user:15367654's SO profile">
 </a>
 <hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir7896&show_icons=true&locale=en&layout=compact" alt="amir7896" /></p>
