@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,React Native**
 
-- 💬 Ask me about **Javascript,Nodejs,Reactjs,Angular**
+- 💬 Ask me about **Javascript, Nodejs, Nestjs, Reactjs, Angular**
 
 - 📫 How to reach me **amirshahzad07896@gmail.com**
  <hr/>
